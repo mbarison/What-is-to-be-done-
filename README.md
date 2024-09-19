@@ -52,4 +52,16 @@ Things you can buy:
 - Newspaper
 - Weapons
 - Attract leaders
-   
+
+## Cast
+
+- Georgy Gapon
+- Vera Zasulich
+- Sergei Zubatov
+- Count Mirsky
+
+## Events
+
+- Assassination of von Plehve
+- Bloody Sunday
+- Fall of Port Arthur 
