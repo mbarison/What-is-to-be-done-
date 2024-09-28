@@ -3,7 +3,7 @@ Wannabe-revolutionaries in the Czar's Russia jostle for power
 
 ## Setting
 
-- Russia, 1890-1917
+- Russia, 1890-1905
 - You are a revolutionary leader, trying to gain control of your party and stir the masses into a revolution
 
 ## Mechanisms
