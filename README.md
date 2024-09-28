@@ -11,6 +11,9 @@ Wannabe-revolutionaries in the Czar's Russia jostle for power
 - Worker placement / area control game
 - Hidden information (spies)
 - Card-driven events
+- Victory condition: gain influence in 3 population strata (intelligentsia, factory workers, peasants)
+- Gains are split between players sharing the same ideology
+- Worker placement is not blocked, but more workers trigger more of Okhrana's attention.
 
 ## Economy
 
@@ -29,6 +32,7 @@ Wannabe-revolutionaries in the Czar's Russia jostle for power
 - Factories
 - Terrorism
 - Strike?
+- Universities
 
 ## Leader traits
 
