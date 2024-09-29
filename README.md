@@ -1,5 +1,8 @@
 # What is to be done?
+
 Wannabe-revolutionaries in the Czar's Russia jostle for power
+
+[Prototype board on Miro](https://miro.com/welcomeonboard/S1lZQ2pGMHRuVDVySnVBV0xhWTRQTncxcThCM0ZjV0w4ZnhPY1lqMG8wSXFvQVNrTmJOdzBBakdLcjRzaFBLVHwzNDU4NzY0NTgxNjg1MDU2NDIwfDI=?share_link_id=455438184293)
 
 ## Setting
 
@@ -68,4 +71,4 @@ Things you can buy:
 
 - Assassination of von Plehve
 - Bloody Sunday
-- Fall of Port Arthur 
+- Fall of Port Arthur
